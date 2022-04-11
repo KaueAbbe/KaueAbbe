@@ -6,7 +6,7 @@
 - 📫 Como me contactar: kaueabbehausen@hotmail.com
 - 😄 Pronome: ele/dele
 - ⚡ Fato sobre mim: no instagram ciência e animação eu faço divulgação científica
--->
+
 
 <div align="center">
   <a href="https://github.com/KaueAbbe">
