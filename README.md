@@ -13,7 +13,7 @@
 </div>
 
 ### Status Atuais
-![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=ESTUDANDO&message=DATA VISUALIZATION&color=<COLOR>)
+![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=ESTUDANDO&message=DATA_VISUALIZATION&color=<COLOR>)
 ![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=ESTUDANDO&message=SQL&color=<COLOR>)
   
 <div align="center">
