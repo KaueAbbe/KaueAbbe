@@ -13,7 +13,7 @@
 </div>
 
 ### Status Atuais
-![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=ESTUDANDO&message=ESTATÍSTICA&color=<COLOR>)
+![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=ESTUDANDO&message=DATA VISUALIZATION&color=<COLOR>)
 ![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=ESTUDANDO&message=SQL&color=<COLOR>)
   
 <div align="center">
@@ -24,9 +24,9 @@
 </div>
 
 ### Um pouquinho sobre mim
-- 🔬 Formado em física pelo UFU
+- 🔬 Formado em física pelo UFU e Mestrando na UnB
 - 🔭 Atualmente estou adentrando a área de **Data Science**
-- 🌱 Estou estudando **Estatística** e **SQL** na **Alura**
+- 🌱 Estou estudando **Data Visualization** e **SQL**
 - 🎓 Participante de Challenges Data Sciene
 - 😄 Pronome: ele/dele
 - ⚡ Um hobbie: eu faço divulgação científica
