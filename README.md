@@ -13,8 +13,8 @@
 </div>
 
 ### Status Atuais
-![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=ESTUDANDO&message=DATA_VISUALIZATION&color=<COLOR>)
-![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=ESTUDANDO&message=SQL&color=<COLOR>)
+![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=ESTUDANDO&message=DATAVISUALIZATION&color=<COLOR>)
+![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=ESTUDANDO&message=MachineLearning&color=<COLOR>)
   
 <div align="center">
   <a href="https://github.com/KaueAbbe">
