@@ -26,10 +26,10 @@
 ### Um pouquinho sobre mim
 - 🔬 Formado em física pelo UFU e Mestrando na UnB
 - 🔭 Atualmente estou adentrando a área de **Data Science**
-- 🌱 Estou estudando **Data Visualization** e **SQL**
+- 🌱 Estou estudando **Data Visualization** e **Machine Learning**
 - 🎓 Participante de Challenges Data Sciene
 - 😄 Pronome: ele/dele
-- ⚡ Um hobbie: eu faço divulgação científica
+- ⚡ Um hobbie: eu faço divulgação científica e escrevo histórias
  
 <div align = "center"> 
   <a href="https://www.linkedin.com/in/kaue-abbehausen-5b1922165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
