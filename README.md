@@ -1,5 +1,4 @@
-## Olá 👋 Eu sou o Kaue Hermann, físico e divulgador científico
-
+## Olá 👋 Eu sou o Kaue, cientista e divulgador
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaue-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
