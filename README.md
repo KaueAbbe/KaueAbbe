@@ -12,7 +12,6 @@
 </div>
 
 ### Status Atuais
-![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=ESTUDANDO&message=DATAVISUALIZATION&color=<COLOR>)
 ![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=ESTUDANDO&message=MachineLearning&color=<COLOR>)
   
 <div align="center">
@@ -23,10 +22,10 @@
 </div>
 
 ### Um pouquinho sobre mim
-- 🔬 Formado em física pelo UFU e Mestrando na UnB
+- 🔬 Formado em física pelo UFU e Mestre em Física Estatística na UnB
 - 🔭 Atualmente estou adentrando a área de **Data Science**
-- 🌱 Estou estudando **Data Visualization** e **Machine Learning**
-- 🎓 Participante de Challenges Data Sciene
+- 🌱 Estou estudando **Machine Learning**
+- 🎓 Participante de Challenges e Competições
 - 😄 Pronome: ele/dele
 - ⚡ Um hobbie: eu faço divulgação científica e escrevo histórias
  
