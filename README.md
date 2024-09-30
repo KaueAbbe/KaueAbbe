@@ -12,7 +12,7 @@
 </div>
 
 ### Status Atuais
-![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=ESTUDANDO&message=MachineLearning&color=<COLOR>)
+![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=ESTUDANDO&message=POWERBI&color=<COLOR>)
   
 <div align="center">
   <a href="https://github.com/KaueAbbe">
@@ -23,8 +23,8 @@
 
 ### Um pouquinho sobre mim
 - 🔬 Formado em física pelo UFU e Mestre em Física Estatística na UnB
-- 🔭 Atualmente estou adentrando a área de **Data Science**
-- 🌱 Estou estudando **Machine Learning**
+- 🔭 Me aventuro no mundo dos dados
+- 🌱 Estou estudando **PowerBI**
 - 🎓 Participante de Challenges e Competições
 - 😄 Pronome: ele/dele
 - ⚡ Um hobbie: eu faço divulgação científica e escrevo histórias
