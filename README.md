@@ -12,19 +12,14 @@
 </div>
 
 ### Status Atuais
-![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=ESTUDANDO&message=POWERBI&color=<COLOR>)
+![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=ESTUDANDO&message=AI&color=<COLOR>)
   
-<div align="center">
-  <a href="https://github.com/KaueAbbe">
-  <img  height="165em" src="https://github-readme-stats.vercel.app/api?username=KaueAbbe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img  height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueAbbe&layout=compact&langs_count=7&theme=radical"/>
-    
-</div>
+
 
 ### Um pouquinho sobre mim
-- 🔬 Formado em física pelo UFU e Mestre em Física Estatística na UnB
-- 🔭 Me aventuro no mundo dos dados
-- 🌱 Estou estudando **PowerBI**
+- 🔬 Formado em física pelo UFU, Mestre em Física Estatística na UnB
+- 🔭 Analista/Cientista de Dados e AI
+- 🌱 Estou estudando **AI e Agentes AI**
 - 🎓 Participante de Challenges e Competições
 - 😄 Pronome: ele/dele
 - ⚡ Um hobbie: eu faço divulgação científica e escrevo histórias
